@@ -1,0 +1,7 @@
+.idea/ 
+__pycache__/ 
+*.json 
+*.png
+*.un~
+*.py~
+.gitignore~
